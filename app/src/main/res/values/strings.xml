@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kumparan Technical Test</string>
+    <string name="welcome_to_kumparan">Welcome to Kumparan\nFind update daily news</string>
+    <string name="search_other_post_here">Search other post here . . .</string>
+</resources>
